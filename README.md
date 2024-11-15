@@ -19,7 +19,7 @@ Here are some ideas to get you started:
 # 👋 안녕하세요, [당신의 이름]입니다!
 ### 🌐 프론트엔드 개발자 | 📚 꾸준히 성장하는 개발자
 
-![header](https://capsule-render.vercel.app/api?type=waving&color=auto&height=150&section=header&text=Welcome!&fontSize=50)
+![header](https://capsule-render.vercel.app/api?type=waving&color=auto&height=150&section=header&text=어서오세요!&fontSize=50)
 
 ---
 
