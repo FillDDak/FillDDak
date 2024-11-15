@@ -15,8 +15,7 @@ Here are some ideas to get you started:
 - ⚡ Fun fact: ...
 -->
 
-<img src="https://capsule-render.vercel.app/api?type=waving&color=BDBDC8&height=150&section=header" />
-# 👋 안녕하세요, [당신의 이름]입니다!
+# 👋 안녕하세요, [삘딱규]입니다!
 ### 🌐 프론트엔드 개발자 | 📚 꾸준히 성장하는 개발자
 
 ![header](https://capsule-render.vercel.app/api?type=waving&color=auto&height=150&section=header&text=어서오세요!&fontSize=50)
@@ -63,4 +62,3 @@ Here are some ideas to get you started:
 ---
 
 ![footer](https://capsule-render.vercel.app/api?section=footer&type=waving&color=auto&height=100)
-<img src="https://capsule-render.vercel.app/api?type=waving&color=BDBDC8&height=150&section=footer" />
