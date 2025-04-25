@@ -41,7 +41,7 @@ Here are some ideas to get you started:
 ---
 
 ### 💡 주요 프로젝트
-- [**준비되면**](https://github.com/FillDDak/when_ur_ready.git): AI 면접 준비 지원 서비스 웹 개발
+- [**준비되면**](https://github.com/FillDDak/when_ur_ready.git): AI 면접 준비 지원 서비스 웹 개발 <br>
    사용된 기술: Vue.js, Node.js, Express, HTML, CSS, JS, MySQL, Git, OPENAI API, FACE API <br>
    주요 기능: 웹 크롤링 및 면접 질문 AI 생성, 면접 시 표정 분석, 근로 계약서 AI 검토, 스터디 커뮤니티 <br>
 - [**프로젝트2 이름**](링크): 프로젝트에 대한 간단한 설명 (사용된 기술, 주요 기능 등)
