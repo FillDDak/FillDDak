@@ -41,7 +41,7 @@ Here are some ideas to get you started:
 ---
 
 ### 💡 주요 프로젝트
-- [**프로젝트1 이름**](https://github.com/FillDDak/when_ur_ready.git): 프로젝트에 대한 간단한 설명 (사용된 기술, 주요 기능 등)
+- [**준비되면**](https://github.com/FillDDak/when_ur_ready.git): 프로젝트에 대한 간단한 설명 (사용된 기술, 주요 기능 등)
 - [**프로젝트2 이름**](링크): 프로젝트에 대한 간단한 설명 (사용된 기술, 주요 기능 등)
 
 ---
