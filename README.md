@@ -93,6 +93,6 @@ Vue.js 기반의 인터랙티브한 UI 구현과 사용자 중심의 설계를 �
 
 ### 💡 "끊임없이 배우고, 꾸준히 성장하는 개발자가 되겠습니다"
 
-![Footer](https://capsule-render.vercel.app/api?type=waving&color=4FC08D&height=120&section=footer)
+![Footer](https://capsule-render.vercel.app/api?type=waving&color=white&height=120&section=footer)
 
 </div>
