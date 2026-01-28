@@ -1,6 +1,6 @@
 <div align="center">
 
-# 👋 안녕하세요, 삘딱규입니다
+# 👋 안녕하세요, 최현규입니다
 
 ### 🎨 Frontend Developer | 사용자 경험을 설계하는 개발자
 
