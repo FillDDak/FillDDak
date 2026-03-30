@@ -5,6 +5,7 @@
 ### 🎨 Frontend, Backend Developer | 어제보다 더 나은 코드를 쓰려고 노력하는 개발자
 
 [![Hits](https://hits.seeyoufarm.com/api/count/incr/badge.svg?url=https%3A%2F%2Fgithub.com%2FFillDDak&count_bg=%234FC08D&title_bg=%23555555&icon=&icon_color=%23E7E7E7&title=Profile+Views&edge_flat=false)](https://github.com/FillDDak)
+
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=FillDDak)](https://github.com/anuraghazra/github-readme-stats)
 
 </div>
