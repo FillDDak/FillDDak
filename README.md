@@ -130,11 +130,12 @@ Vue.js · Node.js · Express · MySQL · OpenAI API | 소프트웨어 공학 수
 
 ![Profile Summary](https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=FillDDak&theme=default)
 
-![Top Languages by Commit](https://github-profile-summary-cards.vercel.app/api/cards/most-commit-language?username=FillDDak&theme=default)
-
-![Top Languages by Repo](https://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=FillDDak&theme=default)
-
 ![Productive Time](https://github-profile-summary-cards.vercel.app/api/cards/productive-time?username=FillDDak&theme=default&utcOffset=9)
+
+<div align="center">
+  <img src="https://github-profile-summary-cards.vercel.app/api/cards/most-commit-language?username=FillDDak&theme=default" height="180"/>
+  <img src="https://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=FillDDak&theme=default" height="180"/>
+</div>
 
 ![Profile Views](https://komarev.com/ghpvc/?username=FillDDak&style=flat-square&color=blue)
 
