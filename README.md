@@ -136,7 +136,7 @@ Vue.js · Node.js · Express · MySQL · OpenAI API | 소프트웨어 공학 수
 
 ![Productive Time](https://github-profile-summary-cards.vercel.app/api/cards/productive-time?username=FillDDak&theme=default&utcOffset=9)
 
-![Profile Views](https://komarev.com/ghpvc/?username=FillDDak&style=flat-square&color=blue&label=프로필+조회수)
+![Profile Views](https://komarev.com/ghpvc/?username=FillDDak&style=flat-square&color=blue&label=조회수)
 
 </div>
 
