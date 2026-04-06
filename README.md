@@ -126,7 +126,11 @@ Vue.js · Node.js · Express · MySQL · OpenAI API | 소프트웨어 공학 수
 
 <div align="center">
 
-![GitHub Stats](https://github-readme-stats-git-masterrstaa-rickstaa.vercel.app/api?username=FillDDak&show_icons=true&hide_border=true)
+[![Activity Graph](https://github-readme-activity-graph.vercel.app/graph?username=FillDDak&hide_border=true&area=true&theme=github-compact)](https://github.com/FillDDak)
+
+![Profile Summary](https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=FillDDak&theme=default)
+
+![Profile Views](https://komarev.com/ghpvc/?username=FillDDak&style=flat-square&color=blue)
 
 </div>
 
