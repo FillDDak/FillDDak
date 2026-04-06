@@ -126,7 +126,7 @@ Vue.js · Node.js · Express · MySQL · OpenAI API | 소프트웨어 공학 수
 
 <div align="center">
 
-![GitHub Stats](https://github-readme-stats.vercel.app/api?username=FillDDak&show_icons=true&theme=default&hide_border=true)
+![GitHub Stats](https://github-readme-stats-git-masterrstaa-rickstaa.vercel.app/api?username=FillDDak&show_icons=true&hide_border=true)
 
 </div>
 
