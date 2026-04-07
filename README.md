@@ -82,7 +82,7 @@
 포트폴리오 PDF 업로드 및 미리보기, 아임포트 결제 연동 (카드·카카오페이), JWT 인증, Google OAuth 2.0 로그인, OpenAI 기반 자료 요약, 팔로우/좋아요/댓글 등 SNS 기능을 포함합니다. <br>
 저는 **마이페이지 기능 구현**을 담당했습니다.
 
-🔗 [GitHub](https://github.com/FillDDak/PortFlux)
+🔗 [GitHub](https://github.com/kimjiwoo-hi/PortFlux)
 
 ---
 
