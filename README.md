@@ -3,7 +3,7 @@
 
 # 안녕하세요, 최현규입니다 👋
 
-**작은 것까지 직접 챙기는 풀스택 개발자입니다.**
+**깊게 고민하는 백엔드 개발자**
 
 [![GitHub](https://img.shields.io/badge/FillDDak-181717?style=flat-square&logo=github&logoColor=white)](https://github.com/FillDDak)
 [![Naver Mail](https://img.shields.io/badge/cgr456@naver.com-03C75A?style=flat-square&logo=naver&logoColor=white)](mailto:cgr456@naver.com)
