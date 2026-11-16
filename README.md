@@ -7,7 +7,6 @@
 
 [![GitHub](https://img.shields.io/badge/FillDDak-181717?style=flat-square&logo=github&logoColor=white)](https://github.com/FillDDak)
 [![Naver Mail](https://img.shields.io/badge/cgr456@naver.com-03C75A?style=flat-square&logo=naver&logoColor=white)](mailto:cgr456@naver.com)
-[![Discord](https://img.shields.io/badge/fillddak-5865F2?style=flat-square&logo=discord&logoColor=white)](https://discord.com/users/fillddak)
 [![KakaoTalk](https://img.shields.io/badge/hey2033-FEE500?style=flat-square&logo=kakaotalk&logoColor=black)](http://qr.kakao.com/talk/p/hey2033)
 
   <table align="center">
